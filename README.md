@@ -6,8 +6,8 @@ This project focuses on HR Analytics, analyzing employee data to understand attr
 
 
 🛠️ Tech Stack & Tools Used
-* **Data Analysis & Processing:** Python / SQL / Excel
-* **Visualization:** Power BI / Tableau / Data Analysis
+* **Data Analysis & Processing:** SQL / Excel
+* **Visualization:** Power BI / Data Analysis
 * **Reporting:** PDF & PowerPoint Presentations
 
 ---
